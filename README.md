@@ -1,5 +1,5 @@
-Authored By: Lavanya Goswami
-Guided by: Prof. Steve Pischke, Class Teacher: Covadonga Machicado Alvarez
+Authored By: Lavanya Goswami;
+Guided by: Prof. Steve Pischke, Class Teacher: Covadonga Machicado Alvarez;
 Course: Econometrics II - 2025-26
 
 **Abstract**: 
