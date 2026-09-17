@@ -8,6 +8,9 @@ Finally, for robustness, I test for reverse causality using lead and lag values 
 unionisation variable in the DiD setting. In the RDD setting, I verify whether there is any 
 discontinuity in the outcome variables associated with firm characteristics at the unionisation 
 cutoff. 
+Authored By: Lavanya Goswami
+Guided by: Prof. Steve Pischke, Class Teacher: Covadonga Machicado Alvarez
+Course: Econometrics II - 2025-26
 
 The STATA code achieves the following:
 1. Cleans and preps data (including winsorisation and re-labelling)
